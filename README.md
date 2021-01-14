@@ -1,5 +1,9 @@
 # Estimation Project #
 
+The Readme for Completed task is located in https://github.com/ashishsomvanshi/flyingcarestimator/blob/main/Estimation%20Project%20Readme.pdf
+
+This is provided readme to udnderstand the given tasks.
+
 Welcome to the estimation project.  In this project, you will be developing the estimation portion of the controller used in the CPP simulator.  By the end of the project, your simulated quad will be flying with your estimator and your custom controller (from the previous project)!
 
 This README is broken down into the following sections:
